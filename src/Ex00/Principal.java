@@ -1,10 +1,12 @@
+package Ex00;
+
 import java.util.ArrayList;
 
 public class Principal {
     public static void main(String[] args) {
-//Crie uma classe Pessoa com atributos como nome, idade, e
+//Crie uma classe Ex00.Pessoa com atributos como nome, idade, e
 // um método toString que represente esses atributos.
-//No método main da classe Principal, crie um ArrayList de Pessoa chamado listaDePessoas.
+//No método main da classe Ex00.Principal, crie um ArrayList de Ex00.Pessoa chamado listaDePessoas.
 //Adicione pelo menos três pessoas à lista utilizando o método add.
 //Imprima o tamanho da lista utilizando o método size.
 //Imprima a primeira pessoa da lista utilizando o método get.
